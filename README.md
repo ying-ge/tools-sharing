@@ -21,7 +21,7 @@
 | Tool | Category | Short description | Link | Free features | Paid features | Status | Maintainer |
 |---|---:|---|---|---|---|---:|---|
 | [ExampleTool](https://github.com/ying-ge/tools-sharing/blob/main/tools/ExampleTool.md) | 文献分析 | 用于自动提取论文方法与结果 | https://github.com/owner/ExampleTool | 文本抽取、关键词检索 | API 调用配额、更高并发、企业支持 | active | @devname |
-| chat.insightpaper | 文献分析 | 最新文献的全面调研 | https://chat.insightpaper.work | 每天都有免费的轻度使用额度 | --- | active | 思考问题的熊 |
+| [InsightPaper](https://github.com/ying-ge/tools-sharing/blob/main/tools/InsightPaper.md) | 科研辅助 | InsightPaper是一款全方位的AI辅助科研学习工具。不止提供答案，更重要的，是和你一起完成对答案的探索。 | https://chat.insightpaper.work | 免费额度每天更新 | 更高额度用量，优先支持 | active | 熊言熊语 |
 |---|文献分析|写综述|公众号Chris生命科学小站|---|---|active|Chris生命科学小站|
 
 如何添加或更新工具条目（贡献指南摘要）
